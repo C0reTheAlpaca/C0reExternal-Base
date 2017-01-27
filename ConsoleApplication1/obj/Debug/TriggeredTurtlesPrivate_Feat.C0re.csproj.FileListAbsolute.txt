@@ -1,0 +1,6 @@
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\obj\Debug\TriggeredTurtlesPrivate_Feat.C0re.csprojResolveAssemblyReference.cache
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

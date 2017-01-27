@@ -1,0 +1,14 @@
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Release\GlobalHotKey.dll
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Release\TriggeredTurtlesPrivate_Feat.C0re.csprojResolveAssemblyReference.cache
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\Release\GlobalHotKey.dll
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\obj\Release\TriggeredTurtlesPrivate_Feat.C0re.csprojResolveAssemblyReference.cache

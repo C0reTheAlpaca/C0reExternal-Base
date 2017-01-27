@@ -1,0 +1,7 @@
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\x86\Debug\C0re_ExternalBase.exe.config
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\x86\Debug\C0re_ExternalBase.exe
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\x86\Debug\C0re_ExternalBase.pdb
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\x86\Debug\GlobalHotKey.dll
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\obj\x86\Debug\C0re_ExternalBase.csprojResolveAssemblyReference.cache
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\obj\x86\Debug\C0re_ExternalBase.exe
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\obj\x86\Debug\C0re_ExternalBase.pdb

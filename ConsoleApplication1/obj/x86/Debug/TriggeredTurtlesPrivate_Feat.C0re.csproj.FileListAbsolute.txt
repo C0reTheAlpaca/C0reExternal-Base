@@ -1,0 +1,28 @@
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe.config
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\TriggeredTurtlesPrivate_Feat.C0re.csprojResolveAssemblyReference.cache
+C:\Users\Crypt3x\Desktop\C0re YT\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\GlobalHotKey.dll
+C:\Users\Jonas\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe.config
+C:\Users\Jonas\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Jonas\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Jonas\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe
+C:\Users\Jonas\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Jonas\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\GlobalHotKey.dll
+C:\Users\Jonas\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\TriggeredTurtlesPrivate_Feat.C0re.csprojResolveAssemblyReference.cache
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe.config
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\bin\x86\Debug\GlobalHotKey.dll
+C:\Users\Crypt3x\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\TriggeredTurtlesPrivate_Feat.C0re.csprojResolveAssemblyReference.cache
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe.config
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\bin\x86\Debug\GlobalHotKey.dll
+C:\Users\Crypt3x\Desktop\turtle\ConsoleApplication1\obj\x86\Debug\TriggeredTurtlesPrivate_Feat.C0re.csprojResolveAssemblyReference.cache
