@@ -1,9 +1,9 @@
-﻿using MemoryManager;
+using MemoryManager;
 using System.Threading;
-using TriggeredTurtlesPrivate_Feat.C0re.Structs_Variables;
-using static TriggeredTurtlesPrivate_Feat.C0re.Stuff.Hotkeys;
+using ExternalBase.C0re.Structs_Variables;
+using static ExternalBase.C0re.Stuff.Hotkeys;
 
-namespace TriggeredTurtlesPrivate_Feat.C0re.Features
+namespace ExternalBase.C0re.Features
 {
     class BunnyHop
     {
